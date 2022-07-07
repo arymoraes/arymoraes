@@ -1,6 +1,6 @@
 <h1 align="left">Hello, I am Ary! </h1>
 
-### I am a Full-Stack Developer passionate about developing applications, mostly with JavaScript/TypeScript and PHP.
+### I am a Full-Stack Developer passionate about developing applications, mostly with TypeScript, Ruby and Rust.
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arylima/)
 
@@ -20,18 +20,17 @@ E-mail: [arylmoraesn@gmail.com](mailto:arylmoraesn@gmail.com)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=PostgreSQL&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-323330?style=flat-square&logo=mongodb)
-
-### Learning
-
 ![Vue.js](https://img.shields.io/badge/-Vue.js-darkgreen?style=flat-square&logo=Vue.js&logoColor=white)
 ![PHP](https://img.shields.io/badge/-PHP-323330?style=flat-square&logo=php)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-pink?style=flat-square&logo=graphql&logoColor=black)
 
+### Learning
+
+![MongoDB](https://img.shields.io/badge/-MongoDB-323330?style=flat-square&logo=mongodb)
+
 ### Interested
 
-![C#](https://img.shields.io/badge/-C＃-239120?style=flat-square&logo=C-Sharp)
-![.NET](https://img.shields.io/badge/-.NET-323330?style=flat-square&logo=.NET)
+
 
 ## My Stats
 
