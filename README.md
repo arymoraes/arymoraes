@@ -14,19 +14,21 @@ E-mail: [arylmoraesn@gmail.com](mailto:arylmoraesn@gmail.com)
 
 ### Experienced
 
-![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript&logoColor=007acc)
-![JavaScript](https://img.shields.io/badge/-JavaScript-323330?style=flat-square&logo=javascript)
-![React](https://img.shields.io/badge/-React-1F232A?style=flat-square&logo=React&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=PostgreSQL&logoColor=white)
-![Vue.js](https://img.shields.io/badge/-Vue.js-darkgreen?style=flat-square&logo=Vue.js&logoColor=white)
-![PHP](https://img.shields.io/badge/-PHP-323330?style=flat-square&logo=php)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![CSS3](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
+![SQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-pink?style=flat-square&logo=graphql&logoColor=black)
+![Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
 
 ### Learning
 
-![MongoDB](https://img.shields.io/badge/-MongoDB-323330?style=flat-square&logo=mongodb)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
 ### Interested
 
@@ -34,5 +36,5 @@ E-mail: [arylmoraesn@gmail.com](mailto:arylmoraesn@gmail.com)
 
 ## My Stats
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Fallenefc&count_private=true&show_icons=true&theme=tokyonight)]()
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fallenefc&theme=tokyonight)]()
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=arymoraes&count_private=true&show_icons=true&theme=tokyonight)]()
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arymoraes&theme=tokyonight)]()
