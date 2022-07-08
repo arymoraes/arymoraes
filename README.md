@@ -30,10 +30,6 @@ E-mail: [arylmoraesn@gmail.com](mailto:arylmoraesn@gmail.com)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
-### Interested
-
-
-
 ## My Stats
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=arymoraes&count_private=true&show_icons=true&theme=tokyonight)]()
