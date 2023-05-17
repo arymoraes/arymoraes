@@ -8,8 +8,6 @@ Hello, my name is Ary and I am a developer based in Canada. Being born and raise
 
 After moving to Canada, I decided to completely change my career from Medicine to Software Engineering due to my passion for technology and development. Since then I have been fully immersed in Development to the point I became completely passionate about it.
 
-E-mail: [arylmoraesn@gmail.com](mailto:arylmoraesn@gmail.com)
-
 ## Languages and Technologies
 
 ### Experienced
