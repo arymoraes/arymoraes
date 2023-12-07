@@ -14,6 +14,7 @@
 
 - 🌱 I’m Ary, a Full-Stack Developer with a unique background in Medicine, now based in Canada.
 - 👨‍💻 Coding with a purpose, I specialize in TypeScript, Ruby, and Rust.
+- 💻 Passionate about open-source: Contributing to and learning from the global developer community.
 - 🎓 Formerly a family physician, I bring a unique perspective to problem-solving in tech.
 - 🌟 After a bold career shift from Medicine to Software Engineering, I've found my true passion in coding and developing innovative applications.
 - 🚀 I’m constantly learning and evolving, always looking to push the boundaries of what I can create with code.
@@ -26,7 +27,8 @@
 
 ### 🤝 Let's Connect!
 
-Feel free to reach out for collaborations or just a friendly chat about tech, medicine, or anything in between.
+- Feel free to reach out for collaborations or just a friendly chat about tech, medicine, or anything in between.
+- 🌐 If you're working on an open-source project and need a contributor, especially in TypeScript, Ruby, or Rust, I'd love to hear about it!
 
 ---
 
