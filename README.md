@@ -36,7 +36,3 @@
   <b>📫 How to reach me:</b><br>
   <a href="https://www.linkedin.com/in/arylima/">LinkedIn</a>
 </p>
-
-<p align="center">
-  💼 Open to new opportunities and challenges!
-</p>
